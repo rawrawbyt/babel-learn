@@ -1,1 +1,0 @@
-{"version":3,"sources":["es5.js"],"names":[],"mappings":"AAAA;;;AAGA,IAAI,SAAS,CAAC,CAAD,EAAI,CAAJ,EAAO,CAAP,CAAb;AACA,IAAI,UAAU,OAAO,GAAP,CAAW,KAAK,IAAI,CAApB,CAAd;AACA,QAAQ,GAAR,CAAY,OAAZ","file":"es5-compiled.js","sourcesContent":["/**\n * Created by rawraw on 2017/3/27.\n */\nlet number = [1, 2, 3];\nlet double2 = number.map(n => n * 2);\nconsole.log(double2);\n"]}
